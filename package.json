@@ -1,15 +1,14 @@
 {
-  "name": "indiepage-react",
+  "name": "viewmywork",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://viewmy.github.io/work",
+  "homepage": "https://viewmy.github.io/work/",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
